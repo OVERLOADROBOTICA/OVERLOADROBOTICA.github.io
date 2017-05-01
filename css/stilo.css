@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+
+#home {
+	background-image:url(../images/utf2.jpg);
+	height:470px;
+}
+
+a.menu{
+	font-family:'Catamaran', sans-serif;
+	color:#FFFFFF;
+	font-weight:bold;
+}
+
+.row-eq-height {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display:         flex;
+}
+
+img.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+	
+.mainboard {
+		background-color: #FFFCF5;
+}
